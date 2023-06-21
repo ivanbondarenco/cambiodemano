@@ -1,8 +1,8 @@
 # cambiodemano
 Codigo del segundo parcial realizado en Programacion con Objetos II con Python resuelto con el algoritmo de Dijkstra utilizando las bibliotecas networkx y matplotlib
 
-Descripción del problema
-Un colectivo escolar recoge alumnos de
+Descripción del problema :
+un colectivo escolar recoge alumnos de
 un barrio lejano y viaja todas las mañanas
 hasta la escuela, siempre eligiendo el
 camino más corto. La ciudad, dentro de la
