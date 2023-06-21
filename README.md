@@ -35,8 +35,10 @@ ubicacion del colegio. Su segunda linea
 la cantidad de esquinas. Y el resto de lineas
 X (Esq de salida de calle), Y (Esq de llegada), R (Distancia)
 
+||¦|
 2 7
 13
+|||||
 2 4 4
 2 1 5
 2 3 2
