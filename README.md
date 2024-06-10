@@ -1,5 +1,5 @@
-# cambiodemano
-Codigo del segundo parcial realizado en Programacion con Objetos II con Python resuelto con el algoritmo de Dijkstra utilizando las bibliotecas networkx y matplotlib
+# Dijkstra en Python
+Consigna y resolución del segundo parcial realizado en Programacion con Objetos II con Python resuelto con el algoritmo de Dijkstra utilizando las bibliotecas networkx y matplotlib
 
 Descripción del problema :
 un colectivo escolar recoge alumnos de
